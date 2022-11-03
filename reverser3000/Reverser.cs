@@ -7,6 +7,11 @@
             char[] charArray = s.ToCharArray();
             Array.Reverse(charArray);
             return new string(charArray);
+
+            if (true)
+            {
+
+            }
         }
 
     }
